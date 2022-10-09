@@ -39,30 +39,43 @@ plans: [
 	
 	//-- -- -- -- -- -- -- -- --
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: exotic-mod-whiplash     , time: 90, requirements: [] }    // (type: flying)  (health:    4550)
+	{ unit: exotic-mod-shockwave    , time: 90, requirements: [] }    // (type: flying)  (health:    15460)
+	{ unit: exotic-mod-intensity    , time: 90, requirements: [] }    // (type: flying)  (health:    560)
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	//-- -- -- -- -- -- -- -- --
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: exotic-mod-wildfire     , time: 90, requirements: [] }    // (type: legs)  (health:    1350000)
+	{ unit: exotic-mod-spark        , time: 90, requirements: [] }    // (type: mech)  (health:    800)
+	{ unit: exotic-mod-pyre         , time: 90, requirements: [] }    // (type: mech)  (health:    25000)
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: exotic-mod-inferno      , time: 90, requirements: [] }    // (type: legs)  (health:    1200000)
+	{ unit: exotic-mod-flicker      , time: 90, requirements: [] }    // (type: mech)  (health:    240)
+	{ unit: exotic-mod-ember        , time: 90, requirements: [] }    // (type: mech)  (health:    75600)
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: exotic-mod-cinder       , time: 90, requirements: [] }    // (type: mech)  (health:    235000)
+	{ unit: exotic-mod-blaze        , time: 90, requirements: [] }    // (type: legs)  (health:    550000)
 	
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
-	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	//-- -- -- -- -- -- -- -- --
 	
+	{ unit: exotic-mod-wraith       , time: 90, requirements: [] }    // (type: naval)  (health:    196000)
+	{ unit: exotic-mod-spriggan     , time: 90, requirements: [] }    // (type: naval)  (health:    1100000)
+	{ unit: exotic-mod-spirit       , time: 90, requirements: [] }    // (type: naval)  (health:    800)
+	
+	{ unit: exotic-mod-soul         , time: 90, requirements: [] }    // (type: naval)  (health:    200)
+	{ unit: exotic-mod-ghost        , time: 90, requirements: [] }    // (type: naval)  (health:    67500)
+	{ unit: exotic-mod-fiend        , time: 90, requirements: [] }    // (type: naval)  (health:    16000)
+	
+	{ unit: exotic-mod-demon        , time: 90, requirements: [] }    // (type: naval)  (health:    2000000)
+	{ unit: exotic-mod-banshee      , time: 90, requirements: [] }    // (type: naval)  (health:    520000)
+	
+	//-- -- -- -- -- -- -- -- --
+	
+	{ unit: exotic-mod-premonition  , time: 90, requirements: [] }    // (type: flying)  (health:    1900000)
+	{ unit: exotic-mod-pi           , time: 90, requirements: [] }    // (type: flying)  (health:    11000)
+	
+	{ unit: exotic-mod-epsilon      , time: 90, requirements: [] }    // (type: flying)  (health:    9000)
+	{ unit: exotic-mod-aftermath    , time: 90, requirements: [] }    // (type: naval)  (health:    2400000)
 ]
 
 requirements: []
