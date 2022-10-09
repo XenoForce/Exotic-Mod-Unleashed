@@ -1,0 +1,74 @@
+type: UnitFactory
+name: Unit Factory (Exotic Mod)
+description: Unit Factory (Exotic Mod)
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: exotic-mod-luminance        , time: 90, requirements: [] }    // (type: flying)  (health:    9000000)
+	
+	//-- -- -- -- -- -- -- -- --
+	
+	{ unit: exotic-mod-virus        , time: 90, requirements: [] }    // (type: flying)  (health:    450)
+	{ unit: exotic-mod-plague       , time: 90, requirements: [] }    // (type: flying)  (health:    975000)
+	
+	{ unit: exotic-mod-phage        , time: 90, requirements: [] }    // (type: flying)  (health:    18000)
+	{ unit: exotic-mod-pathogen     , time: 90, requirements: [] }    // (type: flying)  (health:    45000)
+	{ unit: exotic-mod-pandemic     , time: 90, requirements: [] }    // (type: flying)  (health:    2350000)
+	
+	{ unit: exotic-mod-outbreak     , time: 90, requirements: [] }    // (type: flying)  (health:    75)
+	{ unit: exotic-mod-maliase      , time: 90, requirements: [] }    // (type: flying)  (health:    480000)
+	{ unit: exotic-mod-disease      , time: 90, requirements: [] }    // (type: flying)  (health:    165000)
+	
+	//-- -- -- -- -- -- -- -- --
+	
+	{ unit: exotic-mod-victory      , time: 90, requirements: [] }    // (type: flying)  (health:    130)
+	{ unit: exotic-mod-vengeance    , time: 90, requirements: [] }    // (type: payload)  (health:    480000)
+	{ unit: exotic-mod-reckless     , time: 90, requirements: [] }    // (type: flying)  (health:    600)
+	
+	{ unit: exotic-mod-hellfire     , time: 90, requirements: [] }    // (type: flying)  (health:    1400000)
+	{ unit: exotic-mod-harmony      , time: 90, requirements: [] }    // (type: payload)  (health:    175000)
+	{ unit: exotic-mod-fearless     , time: 90, requirements: [] }    // (type: payload)  (health:    1200000)
+	
+	{ unit: exotic-mod-excalibur    , time: 90, requirements: [] }    // (type: flying)  (health:    16000)
+	{ unit: exotic-mod-endeavour    , time: 90, requirements: [] }    // (type: flying)  (health:    54000)
+	
+	//-- -- -- -- -- -- -- -- --
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	{ unit: ______        , time: 90, requirements: [] }    // (type: _____)  (health:    _____)
+	
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
