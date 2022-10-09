@@ -1,0 +1,12 @@
+
+// type: payload
+// flying: true
+// health: 480000
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true
