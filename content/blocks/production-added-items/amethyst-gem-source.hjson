@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Amethyst Source
+description: Amethyst Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: exotic-mod-amethyst-gem
+  amount: 90
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: duo
+
+alwaysUnlocked: true

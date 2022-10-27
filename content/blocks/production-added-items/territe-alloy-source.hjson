@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Territe Alloy Source
+description: Territe Alloy Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: exotic-mod-territe-alloy
+  amount: 90
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: duo
+
+alwaysUnlocked: true
