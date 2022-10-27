@@ -26,3 +26,9 @@ This mod is for people who don't want to spend hours and days, gathering all sor
   * Increases build speed of worker drones: alpha, beta, gamma, evoke, incite, emanate
 
 <br>
+
+**Note:**
+
+This mod is released under the GPLv3.
+
+Those who want to, are encouraged to copy this mod and modify it, to suit their particular needs.
