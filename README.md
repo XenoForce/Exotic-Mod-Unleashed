@@ -5,7 +5,7 @@ Unlock and Unleash the components of Exotic Mod.
 
 **Target audience:**
 
-This mod is for people who don't want to spend hours and days, gathering all sorts of wierd-and-wonderful resources, in order to unlock the compoments of Exotic Mod. This companion mod will unlock most of the components of Exotic Mod for you, automatically.
+This mod is for people who don't want to spend hours and days, gathering all sorts of wierd-and-wonderful resources, in order to unlock the compoments of Exotic Mod. This companion mod will unlock the components of Exotic Mod for you, automatically.
 
 <br>
 
