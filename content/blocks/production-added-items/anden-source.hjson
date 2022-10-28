@@ -24,6 +24,6 @@ requirements: []
 buildCostMultiplier: 0.1
 
 category: crafting
-research: duo
+research: unit-factory
 
 alwaysUnlocked: true

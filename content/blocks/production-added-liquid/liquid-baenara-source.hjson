@@ -24,6 +24,6 @@ requirements: []
 buildCostMultiplier: 0.1
 
 category: liquid
-research: duo
+research: mag-slag-source
 
 alwaysUnlocked: true
