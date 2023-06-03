@@ -3,7 +3,7 @@ name: Draconium Source
 description: Draconium Source
 
 health: 99000
-itemCapacity: 50
+itemCapacity: 500
 
 outputItem: {
   item: exotic-mod-draconium

@@ -3,7 +3,7 @@ name: Ladera Source
 description: Ladera Source
 
 health: 99000
-itemCapacity: 50
+itemCapacity: 500
 
 outputItem: {
   item: exotic-mod-ladera
